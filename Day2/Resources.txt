@@ -1,0 +1,34 @@
+Mentor's LinkedIn - https://www.linkedin.com/in/abhishek-raj-permani-495483156/
+
+Topic - Array and Strings
+
+Must do questions for Interviews (213 Questions) - https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/
+
+Solutions to most of the above questions - https://drive.google.com/drive/folders/1QDuN1Ti6hu6sMv2znNICXbkour6Zy5db
+
+Problems discussed during the session :-
+1. Linear Search
+    - https://www.geeksforgeeks.org/linear-search/
+
+2. Binary Search
+    - https://www.geeksforgeeks.org/binary-search/
+
+3. Kadane's Algorithm (Sliding Window Technique)
+    - https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/
+
+4. Stock buy And sell 
+    - https://www.geeksforgeeks.org/stock-buy-sell/
+
+5. Sort an array of 0s, 1s and 2s
+    - https://www.geeksforgeeks.org/sort-an-array-of-0s-1s-and-2s/
+
+6. Dutch national flag algorithm 
+    - https://www.geeksforgeeks.org/sort-an-array-of-0s-1s-and-2s/
+    - https://www.javatpoint.com/daa-dutch-national-flag
+
+
+For Core Subjects : 
+    - Gate Smashers
+    - Knowledge Gate
+
+For DSA, refer Saurabh Shukla videos on YouTube
